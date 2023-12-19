@@ -16,7 +16,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\GiveFreelyChallenge_Domain\GiveFreelyChallenge_Domain.csproj" />
+    <ProjectReference Include="..\GiveFreelyChallenge_Domain\GiveFreelyChallenge.Domain.csproj" />
+    <ProjectReference Include="..\GiveFreelyChallenge_Providers\GiveFreelyChallenge.Providers.csproj" />
   </ItemGroup>
 
 </Project>

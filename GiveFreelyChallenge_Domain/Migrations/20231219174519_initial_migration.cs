@@ -3,7 +3,7 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 
 #nullable disable
 
-namespace GiveFreelyChallenge_Domain.Migrations
+namespace GiveFreelyChallenge.Domain.Migrations
 {
     /// <inheritdoc />
     public partial class initial_migration : Migration

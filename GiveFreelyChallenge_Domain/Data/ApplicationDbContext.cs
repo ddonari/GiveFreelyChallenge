@@ -1,7 +1,7 @@
-﻿using GiveFreelyChallenge_Domain.Models;
+﻿using GiveFreelyChallenge.Domain.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace GiveFreelyChallenge_Domain.Data
+namespace GiveFreelyChallenge.Domain.Data
 {
     public class ApplicationDbContext : DbContext
     {

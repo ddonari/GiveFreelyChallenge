@@ -5,9 +5,9 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GiveFreelyChallenge", "GiveFreelyChallenge\GiveFreelyChallenge.csproj", "{B6D3EFC0-330A-4BC5-84C5-43852B3B93AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GiveFreelyChallenge_Domain", "GiveFreelyChallenge_Domain\GiveFreelyChallenge_Domain.csproj", "{65AA5390-E627-4DF4-B210-5F0C5876EEFE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GiveFreelyChallenge.Domain", "GiveFreelyChallenge_Domain\GiveFreelyChallenge.Domain.csproj", "{65AA5390-E627-4DF4-B210-5F0C5876EEFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GiveFreelyChallenge_Providers", "GiveFreelyChallenge_Providers\GiveFreelyChallenge_Providers.csproj", "{456752DD-8C6F-4C73-848F-68611B68150D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GiveFreelyChallenge.Providers", "GiveFreelyChallenge_Providers\GiveFreelyChallenge.Providers.csproj", "{456752DD-8C6F-4C73-848F-68611B68150D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

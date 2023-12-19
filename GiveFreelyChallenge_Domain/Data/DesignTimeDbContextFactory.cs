@@ -4,7 +4,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 
-namespace GiveFreelyChallenge_Domain.Data
+namespace GiveFreelyChallenge.Domain.Data
 {
     public class DesignTimeDbContextFactory : IDesignTimeDbContextFactory<ApplicationDbContext>
     {

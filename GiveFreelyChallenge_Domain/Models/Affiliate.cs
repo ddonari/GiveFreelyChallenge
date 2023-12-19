@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GiveFreelyChallenge_Domain.Models
+namespace GiveFreelyChallenge.Domain.Models
 {
     public class Affiliate
     {
