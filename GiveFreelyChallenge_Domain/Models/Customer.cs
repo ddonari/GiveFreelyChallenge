@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace GiveFreelyChallenge.Domain.Models
+﻿namespace GiveFreelyChallenge.Domain.Models
 {
     public class Customer
     {
