@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using GiveFreelyChallenge.Domain.Data;
 
-namespace AffiliateProgramManagementSystem.Controllers
+namespace GiveFreelyChallenge.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
