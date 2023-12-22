@@ -49,5 +49,5 @@ Your company runs an affiliate program, where partners (affiliates) can earn com
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/AffiliateProgramManagementSystem.git
+   git clone https://github.com/yourusername/GiveFreelyChallenge.git
    cd AffiliateProgramManagementSystem
